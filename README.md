@@ -2,6 +2,9 @@
 
 This repository contains my completed notebooks from Interview Master's Python Summer Party challenge. It's intended for recruiters, peers, and learners to review my approach to data analysis problems using pandas and numpy.
 
+<img width="952" height="736" alt="Screenshot 2025-08-20 at 11 12 35" src="https://github.com/user-attachments/assets/d51abbc5-b81f-41da-82ea-93b89dd3981e" />
+
+
 ## How to use
 
 1. Create and activate a Python environment (venv or conda).
